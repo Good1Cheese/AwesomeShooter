@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.15.1.0" name="VerticalRotate" guid="221da2eaafb375411c9ccdac4023ed1bf65dbfbe" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="_object" type="node"/>
+	<parameter name="_min" type="float">0</parameter>
+	<parameter name="_max" type="float">0</parameter>
+</property>

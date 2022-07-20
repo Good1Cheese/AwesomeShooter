@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>3aa2e966eaa9718dc10ce58897d2cb47c9108ffa</guid>
+	<type>component</type>
+	<hash>fa749c77</hash>
+	<runtimes>
+		<runtime id="3aa2e966eaa9718dc10ce58897d2cb47c9108ffa" name="HorizontalRotate.cs" link="0"/>
+		<runtime id="1ecb2dec3d18505bdf9249fe1a25e945730a49e0" name="HorizontalRotate.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

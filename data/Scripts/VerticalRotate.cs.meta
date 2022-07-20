@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>9d1be2d479edf023ae9d1726f458444d7ba61948</guid>
+	<type>component</type>
+	<hash>166aeb9e</hash>
+	<runtimes>
+		<runtime id="9d1be2d479edf023ae9d1726f458444d7ba61948" name="VerticalRotate.cs" link="0"/>
+		<runtime id="221da2eaafb375411c9ccdac4023ed1bf65dbfbe" name="VerticalRotate.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
